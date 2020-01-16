@@ -1,2 +1,2 @@
 # convexhullvisualization
-This is a web application that visualizes the convex hull Graham scan implementation
+This is a web application that visualizes the convex hull Graham scan implementation (under construction)
